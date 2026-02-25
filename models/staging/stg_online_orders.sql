@@ -1,0 +1,2 @@
+select *
+from RETAIL_DB.CORE.ONLINE_ORDERS
